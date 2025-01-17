@@ -6,7 +6,7 @@
     <div class="container">
       <div class="row mt-5">
         <div class="col">
-          <h2 class="text-center">Our Collection</h2>
+          <h2 class=""><span class="fw-bold">Our</span> Collection Shirt</h2>
         </div>
         <div class="row row-cols-1 row-cols-md-4 g-4">
           <div class="col text-center" v-for="product in products" :key="product.id">
@@ -14,6 +14,7 @@
           </div>
         </div>
       </div>
+
     </div>
   </div>
 
