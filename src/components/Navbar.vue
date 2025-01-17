@@ -38,18 +38,19 @@
                 Product</RouterLink>
             </li>
 
-            <!-- Logout Button (Menambahkannya ke dalam Navbar di Mobile) -->
-            <li class="nav-item d-lg-none">
-              <RouterLink class="btn btn-outline-primary fw-semibold mt-2 mt-lg-0" to="/logout"
-                style="text-decoration: none;">Logout</RouterLink>
-            </li>
+            
           </ul>
         </div>
 
-        <!-- Tombol Logout di luar Navbar pada Desktop -->
         <form class="d-flex" role="search">
           <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-          <button class="btn btn-outline-primary" type="submit">Search</button>
+          <RouterLink class="nav-link fs-5 text-dark fw-semibold" to="/checkout" style="text-decoration: none;">
+            CheckOut</RouterLink>
+
+          <!-- <div>
+            <box-icon name='cart'></box-icon>
+
+          </div> -->
         </form>
       </div>
     </nav>
