@@ -1,0 +1,155 @@
+{
+    "best-products": [
+      {
+        "id": 1,
+        "kode": "K-01",
+        "nama": "Batik Lamongan",
+        "harga": 160000,
+        "is_ready": true,
+        "gambar": "batik13.png",
+        "desk": "Ini adalah batik Lamongan motif macan"
+      },
+      {
+        "id": 2,
+        "kode": "K-02",
+        "nama": "Batik Banten",
+        "harga": 140000,
+        "is_ready": true,
+        "gambar": "batik12.jpg",
+        "desk": "Ini adalah batik Lamongan motif kumbang"
+      },
+      {
+        "id": 3,
+        "kode": "K-03",
+        "nama": "Batik Semen",
+        "harga": 120000,
+        "is_ready": true,
+        "gambar": "batik14.jpg",
+        "desk": "Ini adalah batik Lamongan motif kumbang"
+      },
+      {
+        "id": 3,
+        "kode": "K-03",
+        "nama": "Batik Semen",
+        "harga": 120000,
+        "is_ready": true,
+        "gambar": "batik15.jpg",
+        "desk": "Ini adalah batik Lamongan motif kumbang"
+      }
+    ],
+    "products": [
+      {
+        "id": 1,
+        "kode": "K-01",
+        "nama": "Batik Semen Rama",
+        "harga": 120000,
+        "is_ready": true,
+        "gambar": "batik16.jpg",
+        "desk": "Batik Lamongan dengan motif kumbang"
+      },
+      {
+        "id": 2,
+        "kode": "K-02",
+        "nama": "Batik Banten",
+        "harga": 135000,
+        "is_ready": true,
+        "gambar": "batik12.jpg",
+        "desk": "Batik Banten dengan warna biru"
+      },
+      {
+        "id": 3,
+        "kode": "K-03",
+        "nama": "Batik Tujuh Rupa",
+        "harga": 160000,
+        "is_ready": true,
+        "gambar": "batik18.jpg",
+        "desk": "Batik dengan motif 7 rupa"
+      },
+      {
+        "id": 4,
+        "kode": "K-04",
+        "nama": "Batik Encim",
+        "harga": 175000,
+        "is_ready": true,
+        "gambar": "batik19.jpg",
+        "desk": "Batik Lamongan dengan motif kumbang"
+      },
+      {
+        "id": 5,
+        "kode": "K-05",
+        "nama": "Batik Burung Poenix",
+        "harga": 185000,
+        "is_ready": true,
+        "gambar": "batik20.jpg",
+        "desk": "Batik Lamongan dengan motif kumbang"
+      },
+      {
+        "id": 6,
+        "kode": "K-06",
+        "nama": "Batik Jawa Hokokai",
+        "harga": 210000,
+        "is_ready": true,
+        "gambar": "batik15.jpg",
+        "desk": "Batik Lamongan dengan motif kumbang"
+      },
+      {
+        "id": 7,
+        "kode": "K-07",
+        "nama": "Batik Tujuh Rupa",
+        "harga": 250000,
+        "is_ready": true,
+        "gambar": "batik14.jpg",
+        "desk": "Batik Lamongan dengan motif kumbang"
+      },
+      {
+        "id": 8,
+        "kode": "K-07",
+        "nama": "Celana Rok Hitam",
+        "harga": 250000,
+        "is_ready": true,
+        "gambar": "rok1.jpg",
+        "desk": "Celana Rok Hitam Dengan Bahan Halus"
+      },
+      {
+        "id": 9,
+        "kode": "K-07",
+        "nama": "Celana Bahan",
+        "harga": 250000,
+        "is_ready": true,
+        "gambar": "hitam.jpeg",
+        "desk": "Celana bahan dengan bahan katun"
+      }
+      ,
+      {
+        "id": 10,
+        "kode": "K-07",
+        "nama": "Celana Bahan Hitam",
+        "harga": 250000,
+        "is_ready": true,
+        "gambar": "hitam2.jpeg",
+        "desk": "Celana hitam dengan bahan halus  "
+      }
+      ,
+      {
+        "id": 11,
+        "kode": "K-07",
+        "nama": "Batik Phoenix",
+        "harga": 250000,
+        "is_ready": true,
+        "gambar": "batik23.jpg",
+        "desk": "Batik Phoenix dengan warna hitam"
+      }
+      ,
+      {
+        "id": 12,
+        "kode": "K-07",
+        "nama": "Batik semen",
+        "harga": 250000,
+        "is_ready": true,
+        "gambar": "batik22.jpg",
+        "desk": "Batik Semen"
+      }
+    ],
+    "keranjangs": [],
+    "pesanans": []
+  }
